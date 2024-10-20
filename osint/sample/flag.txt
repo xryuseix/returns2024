@@ -1,0 +1,2 @@
+returns{sample_flag}
+!returns{wrong_flag}
