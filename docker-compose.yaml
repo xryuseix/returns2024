@@ -1,0 +1,6 @@
+services:
+  gen:
+    image: golang:1.21
+    volumes:
+      - .:/app
+    working_dir: /app

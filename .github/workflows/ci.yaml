@@ -1,0 +1,13 @@
+name: Checks Flag
+on: [push]
+
+jobs:
+  run:
+    name: Checks Flag
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Check Flag Format
+        uses: xryuseix/ctfcli-unit-test@v2.0.1
+        with:
+          config_file: config.yaml
