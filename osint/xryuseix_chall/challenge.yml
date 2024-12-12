@@ -54,8 +54,8 @@ tags:                   # TODO: 問題にタグを設定しない場合はコメ
 
 # Provide paths to files from the same directory that this file is in
 # Accepts strings
-files:                              # 配布ファイルがない場合はコメントアウトしてください
-    - public/image.png
+# files:                              # 配布ファイルがない場合はコメントアウトしてください
+#     - public/image.png
 
 # attempts: 5                     # 提出回数制限がない場合はコメントアウトしてください
 
