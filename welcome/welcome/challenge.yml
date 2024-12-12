@@ -8,8 +8,8 @@ flags:
     - "returns{welcome}"
 tags:
     - easy
-files:
-    - public/image.png
+# files:
+#     - public/image.png
 
 ############################
 # NOTE: ここまで編集してください
