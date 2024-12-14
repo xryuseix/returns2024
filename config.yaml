@@ -1,9 +1,6 @@
 genre:
   - osint
   - web
-  - forensics
-  - reversing
-  - pwn
   - welcome
 
 flag_prefix: returns
