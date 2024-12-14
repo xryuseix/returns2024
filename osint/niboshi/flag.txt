@@ -1,0 +1,4 @@
+returns{ます田}
+returns{中華そば ます田}
+returns{中華そば　ます田}
+!returns{一蘭}
