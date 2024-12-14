@@ -1,3 +1,0 @@
-[submodule "ctfd-config-generator"]
-	path = ctfd-config-generator
-	url = https://github.com/diver-osint-ctf/ctfd-config-generator
